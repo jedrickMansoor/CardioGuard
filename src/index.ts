@@ -10,7 +10,6 @@ import analyticsRoutes from "./routes/analytics.routes";
 import userRoutes from "./routes/users.routes";
 import notificationRoutes from "./routes/notification.routes";
 import activityLogRoutes from "./routes/activityLog.routes";
-import fcmRoutes from "./routes/fcm.routes";
 
 dotenv.config();
 
@@ -31,7 +30,6 @@ app.use("/api/analytics", analyticsRoutes);
 app.use("/api/users", userRoutes);
 app.use("/api/notifications", notificationRoutes);
 app.use("/api/activity-logs", activityLogRoutes);
-app.use("/api/fcm", fcmRoutes);
 
 // Basic route
 app.get("/", (req, res) => {

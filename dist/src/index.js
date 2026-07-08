@@ -15,7 +15,6 @@ const analytics_routes_1 = __importDefault(require("./routes/analytics.routes"))
 const users_routes_1 = __importDefault(require("./routes/users.routes"));
 const notification_routes_1 = __importDefault(require("./routes/notification.routes"));
 const activityLog_routes_1 = __importDefault(require("./routes/activityLog.routes"));
-const fcm_routes_1 = __importDefault(require("./routes/fcm.routes"));
 dotenv_1.default.config();
 const app = (0, express_1.default)();
 // Middlewares
@@ -31,7 +30,6 @@ app.use("/api/analytics", analytics_routes_1.default);
 app.use("/api/users", users_routes_1.default);
 app.use("/api/notifications", notification_routes_1.default);
 app.use("/api/activity-logs", activityLog_routes_1.default);
-app.use("/api/fcm", fcm_routes_1.default);
 // Basic route
 app.get("/", (req, res) => {
     res.send("CardioGuard Backend is running");
