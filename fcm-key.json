@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cardioguard-a088d",
+  "private_key_id": "5630389bcc2bbcdfcde02560b1e7f823183c7a9c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDgyuDrX7ggG8rs\nME1puEmj7B3nrXtrFf6nXfkpTZ5fipWfr5LZOhOreivfCq1Q2qfZkGYvIrX9fDdR\nvI9qaCmxpfUcKt1uCx6XFGZW/DF4EBHckgY5n5BWv+Kh2baOv22xLQpiWce00b7l\nReXXxCAPLZF76XBQeRae+TVfkaXSbpKpdQY7Q/htUshXe3wyliH8N3VCR9VjrTPW\neThjORynVdXq5VIY++7lUQuI/+PpBqBKhvDGgc2wDCcASEaLfVLUxd+yhf9j9NEF\nQkQWWNJRY057jNDDSgHZTNpjcEoweYjuak0vuTxEVyAZzP302mH5pLg8N+f84pFY\nw+hpWJmZAgMBAAECggEAabKLarFB0vsugbs+kzC/k4/BCgA1EYewi0LxFt4z0ynH\nK+Qy8OhRemZCPah4ERYXKYIvwgcYup2PJ2Q5rSdYP3tQ0tNG9ejNk+1YJ5uCqTkp\nJOUWfz7LcDbemgrUP6+8JLyQbulXMWsUTxr8NWW3S1u6ViDQGk6td8enNI44Acbx\nZdLGLNpxKbOoM13MtnOp17KMNREhkEUbOYyCP0yGpzqtJnO7QIZ2XRVY4Yl/aXJc\nPDVt+NA6EFOXzzFlclYyH5soS77FllHkG7uPPz6zv2TGky8OIaG1OW/3PoKQt8Gk\nb4qcrDK/CNHscSw0MWpma+wsP0EiCS4iKj8Bp24nZwKBgQD64XbDVnx6jY6rXLRd\nYZMbJtsG+0p+2joHO2ov1HcVnwlvt34+Q9OgvYdYsPYB+ABPnGBmi+MTmEgMamqJ\nBRl6TN+I5MjTNABe/DtJGRCDscHb6Ljpx2khsEoMDj6pqCEuaP9IXGdxvfn4EtQS\n6x1OcnzP+7kEHzE/dCyr3KBLXwKBgQDlYSLzkHDC3NKSvyNiBahTuHfs3bwdXY9X\nRIJY9IS6DYzZkOrGUku5q7nZIlia3fkpsUw3l5mjvKTSH/0+0jHhckszixMl/Tmq\nCP8uCmeSjrITRjkfW2qFDxG2WWYnT5kDc+r6RKjUwlgtkDpOwIckIclx/9Ototlj\nZunSgT+2BwKBgBLpI9adkkx6lyJ7nmzbigcl6qSgFIFzWaRp6hso3MEYd9Gf9zgi\nTLV1E9qvnBuR4hQeKXYRXVCAzg2Bh/5EECOT39WlyS2CYfTG9oEQDpqer4owBKA6\nk8YiT7KQ8FBBiB7Dc1q0/GcqdskoQiwa5N6g6p+SzeNtpnyt+SALRVnpAoGBAOIt\nS/d635VlhMVqb4tCJN6YsLgBVHJoROU6CoWIZi/HGLGXcciocT7dk94FPfVHF18D\nEjJm6/pGEweWv3HodYLl3j0uz2zQKsH9KRHO9J3Q0sqqnbzLuVcGquJxeIcet7Rt\n4q9wcEGKeMREyRnKQfdg0W/1YFaAk3aujbUh+R6VAoGBAL+rZymtufngyMR1mUG5\nF9KBTSR2DmAuJZtwSlLp/Fnu3gKQZGKTK3XTzs9KkOoM8G6C+0D4F4qnctXrsP9a\npRMZvobUY24pkd2sKwpv3EiRVl58DE32yHh5gmzZi2TMEHXstrUlhwdEh/xPyglH\nkYKjnB1jHNPq3qx1ADIOD4Oy\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@cardioguard-a088d.iam.gserviceaccount.com",
+  "client_id": "115262566922565201020",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40cardioguard-a088d.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
